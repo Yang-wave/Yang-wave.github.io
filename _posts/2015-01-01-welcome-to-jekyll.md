@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome yangge!
+title: Welcome to Jeky!
 subtitle: A awesome static site generator.
 author: Jeffrey
 categories: jekyll
