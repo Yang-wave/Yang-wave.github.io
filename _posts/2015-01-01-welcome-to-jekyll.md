@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Welcome to 439之家!
+title: Welcome to 439!
 subtitle: A awesome static site generator.
-author: 你阳哥
+author: niyanggege
 categories: jekyll
 banner:
   video: https://www.bilibili.com/video/BV1qu411c7Z7/
