@@ -5,7 +5,7 @@ subtitle: A awesome static site generator.
 author: 你阳哥
 categories: jekyll
 banner:
-  video: [https://vjs.zencdn.net/v/oceans.mp4](https://www.bilibili.com/video/BV1qu411c7Z7/)
+  video: https://www.bilibili.com/video/BV1qu411c7Z7/
   loop: true
   volume: 0.8
   start_at: 8.5
