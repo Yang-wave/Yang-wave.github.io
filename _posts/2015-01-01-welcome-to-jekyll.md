@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Welcome to 439!
+title: Three part introduction!
 subtitle: A awesome static site generator.
-author: 你阳哥
+author: 阳哥
 categories: jekyll
 banner:
   video: https://www.bilibili.com/video/BV1qu411c7Z7/.mp4
