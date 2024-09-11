@@ -5,7 +5,7 @@ subtitle: A awesome static site generator.
 author: niyanggege
 categories: jekyll
 banner:
-  video: https://www.bilibili.com/video/BV1qu411c7Z7/
+  video: https://www.bilibili.com/video/BV1qu411c7Z7/.mp4
   loop: true
   volume: 0.8
   start_at: 8.5
