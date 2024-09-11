@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Welcome to Jeky!
+title: Welcome to 439之家!
 subtitle: A awesome static site generator.
-author: Jeffrey
+author: 你阳哥
 categories: jekyll
 banner:
-  video: https://vjs.zencdn.net/v/oceans.mp4
+  video: [https://vjs.zencdn.net/v/oceans.mp4](https://www.bilibili.com/video/BV1qu411c7Z7/)
   loop: true
   volume: 0.8
   start_at: 8.5
@@ -16,7 +16,7 @@ banner:
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
-tags: jekyll theme yat
+tags: 6 6 6
 top: 1
 sidebar: []
 ---
