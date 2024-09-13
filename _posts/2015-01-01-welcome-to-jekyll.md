@@ -17,7 +17,7 @@ banner:
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
 tags: 6 6 6
-top: 2
+top: 1
 sidebar: []
 
 ---
