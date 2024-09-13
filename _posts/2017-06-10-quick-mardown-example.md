@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Quick markdown example
-subtitle: This is a quick markdown example
+title: markdown快速示例
+subtitle: 这是一个markdown快速示范
 excerpt_image: https://github.com/jeffreytse/jekyll-theme-yat/assets/9413601/2ed22d49-90b1-4f7e-8e8f-b77b21dee505
 categories: markdown
 tags: [example]
@@ -15,9 +15,9 @@ Paragraphs are separated by a blank line.
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
 look like:
 
-  * this one
-  * that one
-  * the other one
+  * this one 这一个
+  * that one 那一个
+  * the other one 另一个
 
 Note that --- not considering the asterisk --- the actual text
 content starts at 4-columns in.
