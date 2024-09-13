@@ -18,7 +18,7 @@ look like:
   * this one 这一个
   * that one 那一个
   * the other one 另一个
-  * 
+
 ![banner](https://github.com/Yang-wave/Yang-wave.github.io/blob/master/assets/images/banners/DSC00349-2.JPG)
 
 Note that --- not considering the asterisk --- the actual text
