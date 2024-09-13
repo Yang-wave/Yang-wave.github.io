@@ -18,6 +18,8 @@ look like:
   * this one 这一个
   * that one 那一个
   * the other one 另一个
+  * 
+![Uploading DSC00349.JPG…]()
 
 Note that --- not considering the asterisk --- the actual text
 content starts at 4-columns in.
