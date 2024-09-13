@@ -19,7 +19,7 @@ look like:
   * that one 那一个
   * the other one 另一个
   * 
-https://github.com/Yang-wave/Yang-wave.github.io/blob/master/assets/images/banners/DSC00349-2.JPG
+![banner](https://github.com/Yang-wave/Yang-wave.github.io/blob/master/assets/images/banners/DSC00349-2.JPG)
 
 Note that --- not considering the asterisk --- the actual text
 content starts at 4-columns in.
