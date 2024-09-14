@@ -16,7 +16,7 @@ banner:
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
-tags: 6 6 6
+tags: menber introduce Initial idea
 top: 1
 sidebar: []
 
