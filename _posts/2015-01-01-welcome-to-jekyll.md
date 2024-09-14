@@ -39,6 +39,7 @@ print_hi('Tom')
 {% endhighlight %}
 
 <img src="https://github.com/Yang-wave/Yang-wave.github.io/blob/master/_posts/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240914221955.jpg"/>
+![](https://github.com/Yang-wave/Yang-wave.github.io/blob/master/_posts/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240914221955.jpg)
 ## section 2
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
