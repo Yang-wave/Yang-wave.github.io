@@ -38,7 +38,7 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-![](https://www.bing.com/images/search?view=detailV2&ccid=cpwNeVke&id=A21B579CBA36D3EEDC6ACE749D491CC5D6544161&thid=OIP.cpwNeVkenoHsEi3Rr3TxfAHaD0&mediaurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.729c0d79591e9e81ec122dd1af74f17c%3Frik%3DYUFU1sUcSZ10zg%26riu%3Dhttp%253a%252f%252fn.sinaimg.cn%252fsinacn08%252f656%252fw960h496%252f20180805%252f268c-hhhczfa6535869.jpg%26ehk%3D%252b1LrlGd8B5OseTeJe%252bosDoQU4eQUVPSkDC%252f6QcLHNZU%253d%26risl%3D%26pid%3DImgRaw%26r%3D0&exph=496&expw=960&q=%E7%85%A7%E7%89%87&simid=608043915425686526&form=IRPRST&ck=8B4B4FE616AAE85BE4E02AD3B587BB9B&selectedindex=158&itb=0&cw=1375&ch=720&ajaxhist=0&ajaxserp=0&vt=0&sim=11)
+![](https://github.com/Yang-wave/Yang-wave.github.io/blob/master/assets/images/banners/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240914221955.jpg)
 ## section 2
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
