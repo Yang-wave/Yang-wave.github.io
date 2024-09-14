@@ -39,7 +39,6 @@ print_hi('Tom')
 {% endhighlight %}
 
 <img src="https://github.com/Yang-wave/Yang-wave.github.io/blob/master/_posts/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240914221955.jpg"/>
-![](https://github.com/Yang-wave/Yang-wave.github.io/blob/master/_posts/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240914221955.jpg)
 
 
 
