@@ -9,7 +9,7 @@ banner:
   loop: true
   volume: 0.8
   start_at: 8.5
-  image: /assets/images/banners/微信图片_20240914221955.jpg
+  image: https://github.com/Yang-wave/Yang-wave.github.io/blob/master/assets/images/banners/微信图片_20240914221955.jpg
   opacity: 0.618
   background: "#010"
   height: "100vh"
