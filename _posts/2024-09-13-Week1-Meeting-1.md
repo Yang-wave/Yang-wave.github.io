@@ -4,7 +4,7 @@ title: Meeting1 in week1
 subtitle: Each post also has a subtitle
 categories: Weeks
 tags: [weeks, meeting]
-top: 
+
 ---
 ## Main Point  
 
