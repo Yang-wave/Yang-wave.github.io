@@ -2,6 +2,8 @@
 layout: post
 title: Capstone Design Introduction
 subtitle: Program Introduction  
+banner:
+  image: "/assets/images/Logo.jpg"
 categories: foreword
 tags: [introduction]
 top: 2
