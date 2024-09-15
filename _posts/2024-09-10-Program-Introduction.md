@@ -17,6 +17,7 @@ banner:
 categories: foreword
 tags: [introduction]
 top: 2
+sidebar: []
 ---
 
 ![banner](/assets/images/banners/Note.jpg)
