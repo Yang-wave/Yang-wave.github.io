@@ -30,5 +30,5 @@ sidebar: []
 
 ### Logo
 
-![banner](/assets/images/banners/第二周见面会.jpg)
+![banner](/assets/images/banners/Logo.png)
 
