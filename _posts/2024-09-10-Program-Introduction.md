@@ -9,7 +9,7 @@ tags: [introduction]
 top: 2
 ---
 
-![banner](/assets/images/banners/微信图片_20240914221955.jpg)
+![banner](/assets/images/banners/Note.jpg)
 
 
 
