@@ -19,7 +19,6 @@ banner:
 tags: menber introduce Initial idea
 top: 1
 sidebar: []
-
 ---
 ## Our Team Name: Yang-Wave  
 
