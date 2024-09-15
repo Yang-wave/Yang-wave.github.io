@@ -3,7 +3,17 @@ layout: post
 title: Capstone Design Introduction
 subtitle: Program Introduction  
 banner:
-  image: "/assets/images/Logo.png"
+  video: https://vjs.zencdn.net/v/oceans.mp4
+  loop: true
+  volume: 0.8
+  start_at: 8.5
+  image: "assets/images/banners/Logo.png"
+  opacity: 0.618
+  background: "#000"
+  height: "100vh"
+  min_height: "38vh"
+  heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
+  subheading_style: "color: gold"
 categories: foreword
 tags: [introduction]
 top: 2
