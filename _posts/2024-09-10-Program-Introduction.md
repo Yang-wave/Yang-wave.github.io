@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Capstone Design Introduction
-subtitle: Program Introduction
-banner:
+subtitle: Program Introduction  
   video: https://vjs.zencdn.net/v/oceans.mp4
   loop: true
   volume: 0.8
