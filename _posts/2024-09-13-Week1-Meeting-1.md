@@ -9,7 +9,7 @@ tags: [weeks, meeting]
 ---
 ## Main Point  
 
-In week1, we talked about the theme of our capstone design. Through the communication with the instructor teacher Tian, we carried out the division of tasks, splitting it into three parts.
+In week1, we talked about the theme of our capstone design. Through the communication with the instructor teacher Tian, we carried out the division of tasks, splitting it into three parts: Mechanical Structure, PTO, and sensing.
 
 ![banner](/assets/images/banners/Note.jpg)
 
