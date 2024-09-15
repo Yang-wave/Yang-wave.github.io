@@ -5,7 +5,6 @@ subtitle: We designed a buoy by splitting it into three parts.
 author:yang们
 categories: jekyll
 banner:
-  
   loop: true
   volume: 0.8
   start_at: 8.5
