@@ -1,4 +1,4 @@
----
+<img width="764" alt="image" src="https://github.com/user-attachments/assets/55ed87ab-07db-4b8d-a7e0-77c2b6fa885e">---
 layout: post
 title: Team introduction!
 subtitle: Welcome to Yang-Wave!
@@ -30,4 +30,5 @@ sidebar: []
 
 ### Logo
 
+![banner](/assets/images/banners/Logo.jpg)
 
