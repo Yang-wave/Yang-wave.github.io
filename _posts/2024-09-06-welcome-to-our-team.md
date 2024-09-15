@@ -29,6 +29,6 @@ sidebar: []
 
 ## Slogan: Young forever!  
 
-
+### Logo
 ![banner](/assets/images/banners/Week1-Meeting1.jpg)
 
