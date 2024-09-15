@@ -5,11 +5,11 @@ subtitle: We designed a buoy by splitting it into three parts.
 author: 阳哥
 categories: jekyll
 banner: 
-  image: /assets/images/banners/微信图片_20240914221955.jpg
+  video: 
   loop: true
   volume: 0.8
   start_at: 8.5
-  image: https://bit.ly/3xTmdUP
+  image: /assets/images/banners/微信图片_20240914221955.jpg
   opacity: 0.618
   background: "#010"
   height: "100vh"
