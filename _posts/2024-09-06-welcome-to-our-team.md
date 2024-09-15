@@ -9,7 +9,7 @@ banner:
   loop: true
   volume: 0.8
   start_at: 8.5
-  image: "_posts/Meeting1.jpg"
+  image: "assets/images/banners/Logo.jpg"
   opacity: 0.618
   background: "#010"
   height: "100vh"
