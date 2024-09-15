@@ -1,39 +1,75 @@
---
+---
 layout: post
-title: Three part introduction!
-subtitle: We designed a buoy by splitting it into three parts.
-author: yang们
+title: Welcome to Jekyll!
+subtitle: A awesome static site generator.
+author: Jeffrey
 categories: jekyll
 banner:
+  video: https://vjs.zencdn.net/v/oceans.mp4
   loop: true
   volume: 0.8
   start_at: 8.5
   image: https://bit.ly/3xTmdUP
   opacity: 0.618
-  background: "#010"
+  background: "#000"
   height: "100vh"
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
-tags: menber introduce Initial idea
-top: 2
+tags: jekyll theme yat
+top：2
 sidebar: []
 ---
 
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Smart-Buoy 智慧浮标
-项目介绍
-我们小组的Capstone立足DMU的海洋基因，开发一款海洋智慧浮标。主要分为波浪动力学分析、发电装置设计、机械结构设计和传感四部分，分别由三位即将毕业的大四学牲负责。
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Buoy-wave interaction
-为了使水上浮标在海面上有着稳定的姿态以保证可靠的工作效率和状态，团队需要对波浪动力模型进行详细的了解与分析。波浪动力模型是用来模拟水体在不同情况下流动的力学过程的一种数学模型。它可以帮助我们更好地理解波浪的运动规律和特性，进而为确定浮标的重心、浮心等关键参数提供科学依据。波浪动力模型的基本原理主要为流体运动的基本特性和动量方程等。基于此，我们需要经过确定研究对象，收集数据，建立模型模拟分析，结果解释五个主要步骤，完成项目中此部分对于波浪动力模型的建模分析。
+## section 1
 
-Power Take-off (PTO) design
-鉴于海上天气复杂多变，飓风、暴风雨等恶劣天气频发，长时间的晴朗天气难以预料，使用太阳能电池板作为发电装置的光电转换效率低下，很难保证浮标能在海上长时间稳定工作。于是我们采用波浪能发电装置，灵感源于手摇发电手电筒，在浮标内部放置几个可自由移动的浮子，当有大浪来袭时浮子将上下剧烈运动，进而带动驱动发电机旋转运动而发电，最终这些电能将储存在蓄电池中。
-另外我们考虑到由于海面上非常光滑极易产生强大的气流，因此风力资源也非常丰富，我们期望配备合适的永磁同步发电机，并设计风向调节装置，使叶片始终正对风向，提高发电效率。
+Jekyll also offers powerful support for code snippets:
 
-Structure design
-外部结构设计是确保其在海洋环境中稳定性和耐久性的关键。首先，材料选择至关重要，具体应选用了耐腐蚀、高强度的复合材料，能够抵御海水腐蚀和机械磨损。结构优化方面，通过有限元分析（FEM）和有限元网络（FEN）对浮标的应力分布进行详细分析，确保其在各种海况下的稳定性。浮标形状和尺寸的确定则通过流体动力学仿真（CFD）进行优化，以减少水阻并提高能源效率。此外，浮标外部还配备了防撞护栏和抗风浪装置，进一步增强其在恶劣海况中的生存能力。综合这些措施，旨在确保浮标在长期运行中表现出色，能够可靠地执行海洋监测任务。 牧阳，请考虑装置的防水和密封
+{% highlight ruby %}
+def print_hi(name)
+puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
 
-Sensing
-我们计划在浮标上安装一些环境传感器，如温度、湿度、气压、风速、海浪高度等传感器，实时监测浮标周围的环境参数。在浮标上安装数据采集与处理单元，将传感器采集到的数据进行处理和打包，采用卫星通信或无线电台传输数据，然后定期发送到岸上的数据接收中心。 同时，设计故障检测系统，通过电流、电压、功率等传感器，实时监测发电装置、能量存储系统、数据传输系统等的运行状态。当出现故障时，如发电机故障、蓄电池过充或过放、数据传输中断等，系统自动发出报警信号。 报警方式可以采用声光报警，同时通过数据传输系统将故障信息发送到岸上的监控中心，以便及时进行维修和处理。
+## section 2
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]: https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
+
+$ a \* b = c ^ b $
+
+$ 2^{\frac{n-1}{3}} $
+
+$ \int_a^b f(x)\,dx. $
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+  cout << "Hello World!";
+  return 0;
+}
+// prints 'Hi, Tom' to STDOUT.
+```
+
+```python
+class Person:
+  def __init__(self, name, age):
+    self.name = name
+    self.age = age
+
+p1 = Person("John", 36)
+
+print(p1.name)
+print(p1.age)
+```
