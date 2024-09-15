@@ -9,7 +9,7 @@ tags: [weeks, meeting]
 
 In week1, we talked about the theme of our capstone design. Through the communication with the instructor teacher Tian, we carried out the division of tasks, splitting it into three parts.
 
-![banner](/assets/images/banners/微信图片_20240914221955.jpg)
+![banner](/assets/images/banners/第二周见面会.jpg)
 
 
 
