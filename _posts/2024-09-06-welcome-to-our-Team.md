@@ -5,7 +5,7 @@ subtitle: We designed a buoy by splitting it into three parts.
 author: 阳哥
 categories: jekyll
 banner:
-  video: https://www.bilibili.com/video/BV1qu411c7Z7/.mp4
+  video: ![banner](/assets/images/banners/微信图片_20240914221955.jpg)
   loop: true
   volume: 0.8
   start_at: 8.5
@@ -27,4 +27,4 @@ sidebar: []
 成员：沈骋阳（Temporary captain），尹牧阳（most handsome），肖杨（most intelligent）
 
 
-![banner](/assets/images/banners/微信图片_20240914221955.jpg)
+
