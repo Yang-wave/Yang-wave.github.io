@@ -1,6 +1,6 @@
 ---
 layout: post
-title: markdown快速示例
+title: Capstone Design Introduction
 subtitle: Program Introduction
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
