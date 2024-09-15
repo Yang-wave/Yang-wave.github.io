@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Meeting1 in week1
-subtitle: Each post also has a subtitle
+subtitle: Each post also has a subtitle  
+image: "assets/images/banners/第二周见面会.jpg"
 categories: Weeks
 tags: [weeks, meeting]
 ---
