@@ -30,5 +30,5 @@ Our Team Name: Yang-Wave
 Slogan: Young forever!  
 
 
-![banners](/assets/images/banners/Week1-Meeting1.jpg)
+![banner](/assets/images/banners/Week1-Meeting1.jpg)
 
