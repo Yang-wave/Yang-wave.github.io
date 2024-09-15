@@ -23,4 +23,4 @@ sidebar: []
 ---
 指导老师：田昊教授
 成员：沈骋阳（Temporary captain），尹牧阳（most handsome），肖杨（most intelligent）
-![banner](https://github.com/Yang-wave/Yang-wave.github.io/blob/master/_posts/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240914221955.jpg)
+![banner](_posts/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240914221955.jpg)
