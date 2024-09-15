@@ -3,13 +3,13 @@ layout: post
 title: Capstone Design Introduction
 subtitle: Program Introduction  
 banner:
-  image: "/assets/images/Logo.jpg"
+  image: "/assets/images/Logo.png"
 categories: foreword
 tags: [introduction]
 top: 2
 ---
 
-![banner](/assets/images/R.jpg)
+![banner](/assets/images/banners/微信图片_20240914221955.jpg)
 
 Paragraphs are separated by a blank line.
 
