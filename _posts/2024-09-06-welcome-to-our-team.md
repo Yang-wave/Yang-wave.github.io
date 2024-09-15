@@ -21,13 +21,13 @@ top: 1
 sidebar: []
 
 ---
-Our Team Name: Yang-Wave  
+##Our Team Name: Yang-Wave  
 
-指导老师：田昊教授  
+###指导老师：田昊教授  
 
-成员：沈骋阳（Temporary captain），尹牧阳（most handsome），肖杨（most intelligent）  
+##成员：沈骋阳（Temporary captain），尹牧阳（most handsome），肖杨（most intelligent）  
 
-Slogan: Young forever!  
+##Slogan: Young forever!  
 
 
 ![banner](/assets/images/banners/Week1-Meeting1.jpg)
