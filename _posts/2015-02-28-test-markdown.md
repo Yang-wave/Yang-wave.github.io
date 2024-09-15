@@ -2,7 +2,7 @@
 layout: post
 title: Three part introduction!
 subtitle: We designed a buoy by splitting it into three parts.
-author:yang们
+author: yang们
 categories: jekyll
 banner:
   loop: true
