@@ -3,7 +3,6 @@ layout: post
 title: Another test markdown
 subtitle: Each post also has a subtitle
 categories: markdown
-top: 3
 tags: [test]
 ---
 
