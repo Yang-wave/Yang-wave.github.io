@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Team introduction!
-subtitle: We designed a buoy by splitting it into three parts.
+subtitle: Welcome to Yang-Wave!
 author: 阳哥
 categories: foreword
 banner: 
