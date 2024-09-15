@@ -25,8 +25,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Smart Buoy
-email: your-email@domain.com
-author: GitHub User
+email: yinmuyang0528@126.com
+author: 阳哥
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -37,10 +37,10 @@ author: GitHub User
 # * sound recording copyright: (p) - ℗
 #
 # For example:
-#   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
-#   "Copyright © 2017-2021 Foobar"
+#   "Copyright (c) 2024-{currentYear} <a href="https://example.com">{author}</a>"
+#   "Copyright © 2024-2025 Foobar"
 #
-copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
+copyright: "Unpublished Work (cleft) 2024-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
