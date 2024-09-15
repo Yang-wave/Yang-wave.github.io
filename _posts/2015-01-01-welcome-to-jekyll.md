@@ -23,4 +23,4 @@ sidebar: []
 ---
 指导老师：田昊教授
 成员：沈骋阳（Temporary captain），尹牧阳（most handsome），肖杨（most intelligent）
-![banner](/posts/微信图片_20240914221955.jpg)
+![banner](/_posts/微信图片_20240914221955.jpg)
