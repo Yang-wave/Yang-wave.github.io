@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Three part introduction!
+title: Team introduction!
 subtitle: We designed a buoy by splitting it into three parts.
 author: 阳哥
 categories: jekyll
