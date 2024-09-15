@@ -4,7 +4,7 @@ title: Team introduction!
 subtitle: We designed a buoy by splitting it into three parts.
 author: 阳哥
 categories: jekyll
-banner: ![banner](/assets/images/banners/微信图片_20240914221955.jpg)
+banner: /assets/images/banners/微信图片_20240914221955.jpg
   video: 
   loop: true
   volume: 0.8
