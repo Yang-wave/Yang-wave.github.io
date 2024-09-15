@@ -16,7 +16,8 @@ banner:
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
-top:2
+tags: jekyll theme yat
+top: 1
 sidebar: []
 ---
 
