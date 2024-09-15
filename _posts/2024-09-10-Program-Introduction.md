@@ -13,7 +13,7 @@ tags: [example]
 top: 2
 ---
 
-![banner](/assets/9413601/2ed22d49-90b1-4f7e-8e8f-b77b21dee505)
+![banner](/assets/9413601/2ed22d49-90b1-4f7e-8e8f-b77b21dee505.jpg)
 
 Paragraphs are separated by a blank line.
 
