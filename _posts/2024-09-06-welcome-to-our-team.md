@@ -3,7 +3,7 @@ layout: post
 title: Team introduction!
 subtitle: We designed a buoy by splitting it into three parts.
 author: 阳哥
-categories: jekyll
+categories: foreword
 banner: 
   video: 
   loop: true
@@ -21,10 +21,14 @@ top: 1
 sidebar: []
 
 ---
-指导老师：田昊教授
+Our Team Name: Yang-Wave  
+
+指导老师：田昊教授  
+
+成员：沈骋阳（Temporary captain），尹牧阳（most handsome），肖杨（most intelligent）  
+
+Slogan: Young forever!  
 
 
-成员：沈骋阳（Temporary captain），尹牧阳（most handsome），肖杨（most intelligent）
-
-
+![Logo](/assets/images/banners/Meeting1.jpg)
 
