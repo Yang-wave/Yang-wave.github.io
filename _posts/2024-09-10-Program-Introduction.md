@@ -7,7 +7,7 @@ tags: [introduction]
 top: 2
 ---
 
-![banner](/assets/9413601/2ed22d49-90b1-4f7e-8e8f-b77b21dee505)
+![banner](/assets/images/R.jpg)
 
 Paragraphs are separated by a blank line.
 
