@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Smart Buoy
+title: Yang-Wave
 email: yinmuyang0528@126.com
 author: 阳哥
 
