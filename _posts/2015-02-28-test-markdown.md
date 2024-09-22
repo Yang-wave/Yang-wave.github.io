@@ -55,7 +55,7 @@ Later, after consulting the data of the sea area near Dalian, it was found that 
 This week Xiao Yang sketched out the sensor's exterior structure and circuit board
 
 
-![banner](/assets/images/banners/444.png)
+![banner](/assets/images/banners/444.jpg)
 
 
 
