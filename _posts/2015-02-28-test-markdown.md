@@ -39,6 +39,8 @@ However, in this week's study, it was found that the design of the float buoy is
 
 Later, after consulting the data of the sea area near Dalian, it was found that although the usual wave height in Dalian was less than two meters, in 2019, Typhoon Lekima reached Dalian, making the wave height in the sea area near Dalian reach more than 10 meters. According to the calculation formula between wave height and energy, the energy of such waves is equivalent to the equivalent of the water release of a small hydropower station. Therefore, the buoy of a single column structure is easily disintegrated under such waves, so I decided to change the single column structure to a multi-body frame structure, which can be more stable.
 
+
+
 ![banner](/assets/images/banners/11.png)
 ![banner](/assets/images/banners/33.png)
 ![banner](/assets/images/banners/22.png)
