@@ -50,7 +50,7 @@ Later, after consulting the data of the sea area near Dalian, it was found that 
 
 
 
-##Sensor and circuit design
+## Sensor and circuit design
 
 This week Xiao Yang sketched out the sensor's exterior structure and circuit board
 
