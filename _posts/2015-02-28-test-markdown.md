@@ -24,8 +24,8 @@ In the last week, Yin Muyang drew several sketches according to the information 
 
 
 
-![banner](assets/images/banners/图片1.jpg)
-![banner](assets/images/banners/图片2.jpg)
+![banner](/assets/images/banners/图片1.jpg)
+![banner](/assets/images/banners/图片2.jpg)
 
 However, in this week's study, it was found that the design of the float buoy is easy to be asymmetric, and the asymmetric buoy is easy to be stressed unevenly, resulting in overturning in the sea. Therefore, in consideration of the stability of the buoy, we decided to use the float type, so the following structures are retained
 
