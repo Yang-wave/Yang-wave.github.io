@@ -3,7 +3,7 @@ layout: post
 title: Meeting2 in week3
 subtitle: Structural preliminary design and sensing appearance designr
 banner:  
-   image: "assets/images/banners/第二周见面会.jpg"
+   image: "assets/images/banners/微信图片_20240922152712.jpg"
 categories: Weeks
 tags: [week3, meeting,Progress display]
 ---
