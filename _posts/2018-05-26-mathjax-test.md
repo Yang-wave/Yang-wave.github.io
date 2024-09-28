@@ -11,8 +11,8 @@ tags: [week4, meeting,Project pitch slides]
 
 This week we are mainly busy making the PPT for the presentation
 
-![banner](/assets/images/banners/Note.jpg)
-![banner](/assets/images/banners/Note.jpg)
-![banner](/assets/images/banners/Note.jpg)
-![banner](/assets/images/banners/Note.jpg)
-![banner](/assets/images/banners/Note.jpg)
+![banner](/assets/images/banners/41.png)
+![banner](/assets/images/banners/41.png)
+![banner](/assets/images/banners/41.png)
+![banner](/assets/images/banners/41.png)
+![banner](/assets/images/banners/41.png)
