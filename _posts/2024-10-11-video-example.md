@@ -38,3 +38,7 @@ In terms of sensors, we have learned about some core parts, such as Arduino Nano
 ![banner](/assets/images/banners/65.png)
 ![banner](/assets/images/banners/66.png)
 ![banner](/assets/images/banners/67.png)
+
+## In addition, we made a Gantt chart of our schedule based on school curriculum requirements
+![banner](/assets/images/banners/68.png)
+![banner](/assets/images/banners/69.png)
