@@ -12,8 +12,11 @@ tags: [week6, meeting,rudimentary model]
 
 In the external structure part, we use MAtlab to establish a mathematical model and calculate the center of gravity, metacenter, center of buoyancy and center of drift of the buoy
 ![banner](/assets/images/banners/重心.png)
+############################################
 ![banner](/assets/images/banners/浮心.png)
+############################################
 ![banner](/assets/images/banners/稳心.png)
+############################################
 ![banner](/assets/images/banners/漂心.png)
 
 When calculating the center of gravity, we install a weight directly below the buoy, and the center of gravity of the weight is s meters away from the buoy. We assume that the buoy as a whole is an ellipsoid, and the center of the ellipsoid is the coordinate origin
