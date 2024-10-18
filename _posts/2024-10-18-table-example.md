@@ -19,7 +19,7 @@ In the external structure part, we draw the position of the center of gravity an
 ############################################
 ![banner](/assets/images/banners/73.png)
 ############################################
-![banner](/assets/images/banners浮心1.png)
+![banner](/assets/images/banners/浮心1.png)
 ############################################
 ![banner](/assets/images/banners/浮心2.png)
 
