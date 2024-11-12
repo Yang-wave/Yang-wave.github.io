@@ -5,7 +5,7 @@ subtitle: Presentation, Preliminary modeling
 banner:  
    image: "assets/images/banners/81.jpg"
 categories: Weeks
-tags: [week1, meeting,Diagram of center of gravity]
+tags: [week7, meeting,Diagram of center of gravity]
 
 ---
 ## Exterior structure
