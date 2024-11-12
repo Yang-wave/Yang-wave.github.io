@@ -1,0 +1,35 @@
+---
+layout: post
+title:  week8
+subtitle: Presentation, Preliminary modeling
+banner:  
+   image: "assets/images/banners/81.jpg"
+categories: Weeks
+tags: [week1, meeting,Diagram of center of gravity]
+
+---
+## Exterior structure
+
+In this week's research and design, we calculated each parameter of the buoy and the position of its center of gravity center of buoyancy and fitted it more intuitively, respectively obtained the relationship between the short axis and long axis of the ellipsoidal buoy and the center of gravity center of buoyancy, the radius and center of gravity of the spherical buoy, the radius and height of the cylindrical buoy and the buoy, and realized that the density could be changed by using Matlab code. Calculation model of shell thickness
+
+![banner](/assets/images/banners/81.png)
+############################################
+![banner](/assets/images/banners/82.png)
+############################################
+![banner](/assets/images/banners/82.png)
+############################################
+![banner](/assets/images/banners/83.png)
+############################################
+![banner](/assets/images/banners/84.png)
+############################################
+![banner](/assets/images/banners/85.png)
+
+
+## Dynamo
+
+![banner](/assets/images/banners/86.png)
+
+
+## Sensor
+
+![banner](/assets/images/banners/87.png)
