@@ -3,7 +3,7 @@ layout: post
 title:  week8
 subtitle: Presentation, Preliminary modeling
 banner:  
-   image: "/assets/images/banners/81.jpg"
+   image: "/assets/images/banners/81.png"
 categories: Weeks
 tags: [week7, meeting,Diagram of center of gravity]
 
