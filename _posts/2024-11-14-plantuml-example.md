@@ -12,11 +12,13 @@ tags: [week9, meeting,AQWA preliminary results]
 
 In this week's study, we preliminarily learned the use of AQWA, and drew some preliminary conclusions of hydrodynamic analysis
 
-![banner](/assets/images/banners/92.png)
-##
+## First, optimize the structure and adjust the coordinate system position
 
 ![banner](/assets/images/banners/92.png)
-##
+## Then, start the simulation,different Wave frequency
+
+![banner](/assets/images/banners/92.png)
+## Output simulation results
 
 ![banner](/assets/images/banners/93.png)
 ##
