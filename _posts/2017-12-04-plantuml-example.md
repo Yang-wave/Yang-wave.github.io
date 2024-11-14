@@ -3,43 +3,43 @@ layout: post
 title:  week9
 subtitle: Presentation, Preliminary modeling
 banner:  
-   image: "/assets/images/banners/91.png"
+   image: "/assets/images/banners/81.png"
 categories: Weeks
-tags: [week9, meeting,Diagram of center of gravity]
+tags: [week9, meeting,AQWA preliminary results]
 
 ---
 ## Exterior structure
 
-In this week's research and design, we calculated each parameter of the buoy and the position of its center of gravity center of buoyancy and fitted it more intuitively, respectively obtained the relationship between the short axis and long axis of the ellipsoidal buoy and the center of gravity center of buoyancy, the radius and center of gravity of the spherical buoy, the radius and height of the cylindrical buoy and the buoy, and realized that the density could be changed by using Matlab code. Calculation model of shell thickness
+In this week's study, we preliminarily learned the use of AQWA, and drew some preliminary conclusions of hydrodynamic analysis
 
-![banner](/assets/images/banners/82.png)
+![banner](/assets/images/banners/92.png)
 ##
 
-![banner](/assets/images/banners/82.png)
+![banner](/assets/images/banners/92.png)
 ##
 
-![banner](/assets/images/banners/83.png)
+![banner](/assets/images/banners/93.png)
 ##
 
-![banner](/assets/images/banners/84.png)
+![banner](/assets/images/banners/94.png)
 ##
 
-![banner](/assets/images/banners/85.png)
+![banner](/assets/images/banners/95.png)
 ##
 
-![banner](/assets/images/banners/86.png)
+![banner](/assets/images/banners/96.png)
 ##
 
-![banner](/assets/images/banners/87.png)
+![banner](/assets/images/banners/97.png)
 ##
 
-![banner](/assets/images/banners/88.png)
+![banner](/assets/images/banners/98.png)
 ##
 
-![banner](/assets/images/banners/89.png)
+![banner](/assets/images/banners/99.png)
 ##
 
-![banner](/assets/images/banners/810.png)
+![banner](/assets/images/banners/910.png)
 ##
 
 ![banner](/assets/images/banners/811.png)
