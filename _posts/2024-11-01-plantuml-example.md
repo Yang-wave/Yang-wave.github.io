@@ -3,7 +3,7 @@ layout: post
 title:  week9
 subtitle: Presentation, Preliminary modeling
 banner:  
-   image: "/assets/images/banners/81.png"
+   image: "/assets/images/banners/825.png"
 categories: Weeks
 tags: [week9, meeting,AQWA preliminary results]
 
